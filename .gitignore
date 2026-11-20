@@ -1,0 +1,11 @@
+*.iml
+.gradle/
+local.properties
+.cxx/
+**/build/
+*.jks
+*.keystore
+.idea/
+
+# ARCore native API header has separate upstream terms; fetch explicitly.
+libraries/include/
